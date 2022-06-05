@@ -1,0 +1,3 @@
+url:  https://DESKTOP-IPKEE42:455/svn/test
+user: chenaixia
+pwd: 123456
